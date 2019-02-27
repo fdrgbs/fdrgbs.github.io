@@ -11,7 +11,7 @@ keywords: maven,filters
 ### JS不同环境的加载
  * java下的filters
  
-![](/Users/sgl/Downloads/java-filters.png "过滤器样例")
+![](../../assets/img/java-filters.png "过滤器样例")
  
  * maven下的profile
  
