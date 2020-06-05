@@ -32,7 +32,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-168643872-1
-  url: fdrgbs.github.io/
+  url: auto
 
 # Build settings
 permalink: /:year/:i_month/:title
