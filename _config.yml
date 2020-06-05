@@ -31,8 +31,8 @@ disqus:
 
 # google analytics config
 ga:
-  id: UA-
-  url: sungl.org
+  id: UA-168643872-1
+  url: fdrgbs.github.io/
 
 # Build settings
 permalink: /:year/:i_month/:title
